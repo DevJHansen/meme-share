@@ -5,7 +5,7 @@ Some of the improvements I'd like to add in the future include:
 
 -Notifications when users comment or up vote/ down vote your post
 
--The ability for users to tag eachother in comments
+-The ability for users to tag each other in comments
 
 -Allow users to reply to comments
 
