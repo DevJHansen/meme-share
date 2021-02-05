@@ -5,6 +5,10 @@ Some of the improvements I'd like to add in the future include:
 
 -Notifications when users comment or up vote/ down vote your post
 
+-Spam filtering
+
+-Direct messaging between users
+
 -The ability for users to tag each other in comments
 
 -Allow users to reply to comments
