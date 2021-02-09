@@ -17,5 +17,5 @@ Some of the improvements I'd like to add in the future include:
 
 -Allow users to share posts with friends
 
-If you wish to demo the app you can follow this link: https://affectionate-keller-cf91e8.netlify.app 
+If you wish to demo the app you can follow this link: https://affectionate-keller-cf91e8.netlify.app
 You are also able to login with a demo account. The demo account login details are added for you on the login page.
